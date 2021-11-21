@@ -1,14 +1,16 @@
-# Final Examination
-Jelaskan maksud dari final exam ini, apa yang akan Anda buat serta berikan gambar arsitektur servernya.
+# Week 1
+Di task week 2 ini saya diberikan tugas untuk membuat langkah-langkah installasi linux serta penggunaan command diterminal, membuat dokumentasi git yang berisikan perintah-perintah untuk versioning, membuat study case proses update branch antara branch development, branch stagging dan branch production dan yang terakhir membuat proses/tahapan CI/CD menggunakan github action.
 
 # Kebutuhan
-Jelaskan kebutuhan yang harus ada sebelum memulai, seperti:
-- Server : -
-- Security group : -
-- Aplikasi frontend : -
-- Aplikasi backend : -
-- Ansible : -
-- Dll
+kebutuhan yang harus ada :
+- Operating System : Linux Ubuntu Server
+- Virtual Machine : Virtual Box
+- Iso File : Iso file linux server
+- Version Control : Git
 
-# Step by step
-Tulis dengan jelas proses yang akan dikerjakan mulai dari awal hingga akhir serta masukkan gambar pada setiap prosesnya.
+# Penyelesaian
+[Installasi Linux Server](Installasi-linux-server.md)
+[Bash Scripting](bash-scripting.md)
+[Perintah git versioning](perintah-git.md)
+[Branch Study Case](branch-study-case.md)
+[CI/CD With Github Action](github-action.md)
