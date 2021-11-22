@@ -27,7 +27,7 @@ Berikut adalah perintah-perintah bash script:
 - touch nama-file
 
 ## rm 
-![gambar rm](assets/rm-6.png)
+![gambar rm](assets/rm.png)
 ### rm adalah perintah yang digunakan untuk menghapus sebuah file atau sebuah direktori. Berikut contoh penggunaannya:
 - rm nama-file/direktori
 
