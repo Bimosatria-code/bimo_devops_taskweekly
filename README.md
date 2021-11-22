@@ -5,7 +5,7 @@ DumbWays merupakan bootcamp DevOps gratis dan disalurkan kerja!
 - Membuat Flow penerapan culture Devops dengan berbekal materi yang diajarkan
 - Jelaskan secara rinci tools dan alasan mengapa menggunakan tools tersebut didalam perusahaan
 - Tools yang dijelaskan boleh berbeda dari materi yang diajarkan
-- [Baca lebih lanjut](tugas-week-1/README.md)
+- [Baca lebih lanjut](week-1/README.md)
 
 ## Minggu ke 2
 - Setup git & Ssh key

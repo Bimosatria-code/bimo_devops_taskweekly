@@ -13,4 +13,4 @@ kebutuhan yang harus ada :
 [Bash Scripting](bash-scripting.md)
 [Perintah git versioning](perintah-git.md)
 [Branch Study Case](branch-study-case.md)
-[CI/CD With Github Action](github-action.md)
+[CI/CD With Github Action](github-actions.md)
