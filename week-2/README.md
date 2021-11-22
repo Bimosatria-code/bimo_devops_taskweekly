@@ -9,8 +9,8 @@ kebutuhan yang harus ada :
 - Version Control : Git
 
 # Penyelesaian
-[Installasi Linux Server](Installasi-linux-server.md)
-[Bash Scripting](bash-scripting.md)
-[Perintah git versioning](perintah-git.md)
-[Branch Study Case](branch-study-case.md)
-[CI/CD With Github Action](github-actions.md)
+- [Installasi Linux Server](Installasi-linux-server.md)
+- [Bash Scripting](bash-scripting.md)
+- [Perintah git versioning](perintah-git.md)
+- [Branch Study Case](branch-study-case.md)
+- [CI/CD With Github Action](github-actions.md)
