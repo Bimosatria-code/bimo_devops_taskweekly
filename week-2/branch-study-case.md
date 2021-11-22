@@ -11,7 +11,7 @@ Berikut study case untuk mengupdate branch, jadi saya mengupdate sebuah file yg 
 
 ## Update file dibranch stagging
 ![gambar stagging](assets/update-stagging.png)
-Dilangkah ini kita akan mengupdate file yg sudah kita update di branch development ke branch stagging. berikut langkah-langkahnya:
+### Dilangkah ini kita akan mengupdate file yg sudah kita update di branch development ke branch stagging. berikut langkah-langkahnya:
 - Pertama Kita berpindah dulu kebranch stagging dengan perintah $git checkout stagging. Untuk mencek apakah sudah berpindah branch kita bisa menjalankan perintah $git branch.
 - Kemudian langkah berikutnya adalah kita akan menggunakan perintah $git merge, perinta ini berfungsi untuk menggabungkan branch/cabang menjadi satu kembali dengan artian file yg sudah kita update dibranch development nantinya juga akan terupdate.
 - Dengan perintah $git merge stagging development file tersebut juga akan terupdate didalam branch stagging.
@@ -19,7 +19,7 @@ Dilangkah ini kita akan mengupdate file yg sudah kita update di branch developme
 
 ## Update file dibranch production
 ![gambar production](assets/update-production.png)
-Dilangkah ini kita akan mengupdate file yg sudah kita update di branch development dan branch stagging ke branch production. berikut langkah-langkahnya:
+### Dilangkah ini kita akan mengupdate file yg sudah kita update di branch development dan branch stagging ke branch production. berikut langkah-langkahnya:
 - Pada langkah ini kita akan mengupdate branch production, kita akan mengupdate branch production dari branch stagging. pertama kita masukkan $git checkout production dengan kata lain kita harus berpindah dulu menuju branch yg akan diupdate.
 - Sama seperti langkah update di branch stagging kita masukkan perintah $git merge, tapi bedanya adalah kita masukkan $git merge branch production stagging, jadi kita masukkan branch production dulu lalu masukkan branch stagging sebagai branch yg akan disatukan.
 - Langkah terakhir adalah push repository dengan perintah $git push -u github production
