@@ -1,14 +1,14 @@
 # Week 3
-Jelaskan maksud dari week 3 ini, apa yang akan Anda buat serta berikan gambar arsitekturnya.
+Di task week 3 ini saya diberikan tugas untuk membuat dokumentasi mengenai apa yg sudah dipelajari dalam materi manage server dengan terminal, menambahkan perintah monitoring yang belum dipelajari dan membuat dokumentasi mengenai cms manajer dari awal hingga selesai.
 
 # Kebutuhan
-Jelaskan kebutuhan yang harus ada sebelum memulai, seperti:
-- Server : -
-- Security group : -
-- Aplikasi frontend : -
-- Aplikasi backend : -
-- Dll
+kebutuhan yang harus ada :
+- Operating System : Linux Ubuntu Server
+- Virtual Machine : Virtual Box
+- Firewall : UFW
+- tools : cmsmanajer
 
 # Penyelesaian
-- [Setup docker & Membuat custom docker image](setup-docker-dan-membuat-custom-docker-image.md)
-- [Setup CI/CD & Notifikasi](setup-ci-cd-dan-notifikasi.md)
+- [Manage server with terminal](manage-server-terminal.md)
+- [Manage server with terminal 2](manage-server-terminal-2.md)
+- [CMS Manajer](cmsmanajer.md)

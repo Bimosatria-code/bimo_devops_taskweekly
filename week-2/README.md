@@ -1,4 +1,4 @@
-# Week 1
+# Week 2
 Di task week 2 ini saya diberikan tugas untuk membuat langkah-langkah installasi linux serta penggunaan command diterminal, membuat dokumentasi git yang berisikan perintah-perintah untuk versioning, membuat study case proses update branch antara branch development, branch stagging dan branch production dan yang terakhir membuat proses/tahapan CI/CD menggunakan github action.
 
 # Kebutuhan
