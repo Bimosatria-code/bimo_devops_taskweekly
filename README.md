@@ -21,8 +21,10 @@ DumbWays merupakan bootcamp DevOps gratis dan disalurkan kerja!
 - [Baca lebih lanjut](week-3/README.md)
 
 ## Minggu ke 4
-- Setup monitoring
-- Setup ansible & Membuat ansible playbook untuk konfigurasi server
+- Membuat dokumentasi tahap-tahap mengenai installasi aplikasi nodejs, python dan golang
+- Membuat dokumentasi Study Case memonitoring aplikasi yang sedang mati
+- Membuat dokumentasi membuat reverse proxy dan domain
+- Mempelajari dan membuat dokumentasi mengenai load balance nginx
 - [Baca lebih lanjut](week-4/README.md)
 
 ## Additional
